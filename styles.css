@@ -524,7 +524,7 @@ h6 {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  color: var(--white);
+  color: #f3ece2;
   z-index: 2;
   width: 90%;
   max-width: 800px;
@@ -536,12 +536,14 @@ h6 {
   }
 }
 
+.slide-content h1,
 .slide-content h2,
 .slide-content h3 {
   font-size: 56px;
   margin-bottom: 20px;
-  font-weight: 600;
-  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.42);
 }
 
 .slide-content p {

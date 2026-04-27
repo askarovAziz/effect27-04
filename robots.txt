@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: effectspa.ae
+Sitemap: https://effectspa.ae/sitemap.xml

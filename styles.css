@@ -530,7 +530,7 @@ h6 {
 
 .slide-content {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -542,7 +542,7 @@ h6 {
 
 @media (max-width: 768px) {
   .slide-content {
-    top: 85%;
+    top: 88%;
   }
 }
 

@@ -530,6 +530,12 @@ h6 {
   max-width: 800px;
 }
 
+@media (max-width: 768px) {
+  .slide-content {
+    top: 58%;
+  }
+}
+
 .slide-content h2,
 .slide-content h3 {
   font-size: 56px;

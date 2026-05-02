@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-Host: effectspa.ae
-Sitemap: https://effectspa.ae/sitemap.xml
+Disallow: /footer.html
+
+Sitemap: https://amararelaxcenter.ae/sitemap.xml
